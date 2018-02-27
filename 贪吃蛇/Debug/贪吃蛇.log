@@ -1,0 +1,8 @@
+﻿  main.c
+e:\project\vs2015\c_project\贪吃蛇\贪吃蛇\贪吃蛇\main.c(77): warning C4133: “函数”: 从“char [3600]”到“LPWSTR”的类型不兼容
+e:\project\vs2015\c_project\贪吃蛇\贪吃蛇\贪吃蛇\main.c(78): warning C4133: “函数”: 从“char [3600]”到“LPCWSTR”的类型不兼容
+e:\project\vs2015\c_project\贪吃蛇\贪吃蛇\贪吃蛇\main.c(314): warning C4133: “函数”: 从“char [3600]”到“LPWSTR”的类型不兼容
+e:\project\vs2015\c_project\贪吃蛇\贪吃蛇\贪吃蛇\main.c(317): warning C4133: “函数”: 从“char [3600]”到“LPCWSTR”的类型不兼容
+e:\project\vs2015\c_project\贪吃蛇\贪吃蛇\贪吃蛇\main.c(46): warning C4715: “cls”: 不是所有的控件路径都返回值
+  贪吃蛇.vcxproj -> E:\Project\VS2015\C_Project\贪吃蛇\贪吃蛇\Debug\贪吃蛇.exe
+  贪吃蛇.vcxproj -> E:\Project\VS2015\C_Project\贪吃蛇\贪吃蛇\Debug\贪吃蛇.pdb (Full PDB)
